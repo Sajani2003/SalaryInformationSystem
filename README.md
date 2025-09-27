@@ -1,25 +1,25 @@
-Got it ✅ Here’s a clean **README.md** for your GitHub repo:
+
 
 ````markdown
-# 💼 Salary Information System (Java)
+💼 Salary Information System (Java)
 
-This is a simple **Java console application** for managing employee salary-related calculations.  
+This is a simple Java console application for managing employee salary-related calculations.  
 It allows users to:
 
-- 📊 Calculate **Income Tax**  
-- 🎁 Calculate **Annual Bonus**  
-- 🏦 Check **Loan Amount Eligibility**  
+- 📊 Calculate Income Tax  
+- 🎁 Calculate Annual Bonus 
+- 🏦 Check Loan Amount Eligibility 
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 - Menu-driven interface for easy use  
 - Tax, bonus, and loan calculations based on salary input  
 - Clear and structured console outputs  
 
 ---
 
-## 📂 How to Run
+ 📂 How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/YourUsername/SalaryInformationSystem.git
@@ -43,11 +43,11 @@ It allows users to:
 
 ---
 
-## 🖥️ Example Menu
+ 🖥️  Menu
 
 ```
 ---------------------------------------------------------
-|        SALARY INFORMATION SYSTEM        |
+|        SALARY INFORMATION SYSTEM                      |
 ---------------------------------------------------------
 
     [1] Calculate Income Tax
@@ -59,13 +59,13 @@ Enter an option to continue >
 
 ---
 
-## 📌 About
+ 📌 About
 
-* **Language:** Java
-* **Author:** Sajani
-* Built as a practice project to strengthen Java programming and problem-solving skills.
+<Language: Java
+<Author: Sajani Siriwardhana
+<Built as a practice project to strengthen Java programming and problem-solving skills.
 
 ```
 
-Would you like me to also add a **preview screenshot (like console output)** section in this README so your GitHub repo looks more attractive?
+
 ```
